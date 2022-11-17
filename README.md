@@ -1,1 +1,6 @@
-# yasmin
+olá pessoal👋
+🔭eu sou estudante...
+🌱estou aprendendo o HTML e CSS...
+📫como chegar ate mim: yasminldpmendes@gmail.com
+😄pronomes: ela/dela
+⚡fato curioso: adoro ler mangás
